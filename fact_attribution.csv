@@ -1,0 +1,4 @@
+Asset Class,Portfolio Weight,Benchmark Weight,Asset Return,Allocation Effect
+Equities (SPY),65%,60%,47.84%,0.80%
+Bonds (AGG),25%,40%,9.11%,3.40%
+Commodities (GLD),10%,0%,107.80%,7.60%
